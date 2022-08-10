@@ -1,5 +1,5 @@
 <h1>👋 Olá! Meu nome é Thiago</h1>
-- 🔥 Desenvoldedor junior<br>
+- 🔥 Desenvolvedor junior<br>
 - 📖 Atualmente cursando Sistemas para Internet<br>
 - 🖥 Buscando sempre aprender e aprimorar novas linguagens de programação<br>
 <br>
