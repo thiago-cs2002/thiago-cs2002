@@ -15,8 +15,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-cs2002&show_icons=true&theme=radical)](https://github.com/thiago-cs2002/github-readme-stats)
 
 <h1>Contato</h1>
-<a target="_blank" href="https://www.linkedin.com/in/thiago-carvalho-a68360247/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a target="_blank" href="https://www.linkedin.com/in/thiago-carvalho-a68360247/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a target="blank" href="https://www.linkedin.com/in/thiago-carvalho-a68360247/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<!-- <a target="blank" href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>-->
 
 
 
