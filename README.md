@@ -3,7 +3,7 @@
 - 📖 Atualmente cursando Sistemas para Internet<br>
 - 🖥 Buscando sempre aprender e aprimorar novas linguagens de programação<br>
 
-<h1>Aprendendo as linguagens:</h1>
+<h1>Conhecimento nas linguagens:</h1>
 <div>
 <img  alt="HTML5" align="center "src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img  alt="css" align="center "src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
